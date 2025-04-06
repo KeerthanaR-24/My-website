@@ -1,5 +1,5 @@
 body {
-  background-image: url('https://static.vecteezy.com/system/resources/previews/014/444/838/large_2x/modern-navy-blue-background-with-abstract-style-illustration-design-for-presentation-banner-cover-web-flyer-card-poster-wallpaper-texture-slide-magazine-and-powerpoint-vector.jpg');
+  background-image: url("./images/background.jpg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
